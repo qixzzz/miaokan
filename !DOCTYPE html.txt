@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的精选</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background: #f9f9f9; }
+        .video-card { border: 1px solid #ddd; margin: 20px; padding: 15px; display: inline-block; background: white; }
+    </style>
+</head>
+<body>
+    <h1>🎬 我的私藏视频</h1>
+    
+    <div class="video-card">
+        <h3>推荐视频 1：玄幻大作</h3>
+        <!-- 这里替换成 YouTube 提供的嵌入代码 -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/视频ID" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <p>更多精彩内容更新中...</p>
+</body>
+</html>
